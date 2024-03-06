@@ -21,7 +21,7 @@ var user = number + '@s.whatsapp.net'
 } catch (e) {
 } finally {
 conn.groupParticipantsUpdate(m.chat, [user], 'demote')
-//conn.sendHydrated(m.chat, `𝙅𝙖𝙟𝙖 𝙮𝙖 𝙙𝙚𝙟𝙖𝙨𝙩𝙚 𝙙𝙚 𝙨𝙚𝙧 𝙖𝙙𝙢𝙞𝙣𝙨 𝙣𝙤 𝙛𝙪𝙞𝙨𝙩𝙚 𝙗𝙪𝙚𝙣 𝙖𝙙𝙢𝙞𝙣 :𝙫 😧`, wm, null, md, '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', null, null, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']], m)
+//conn.sendHydrated(m.chat, `𝙅𝙖𝙟𝙖 𝙮𝙖 𝙙𝙚𝙟𝙖𝙨𝙩𝙚 𝙙𝙚 𝙨𝙚𝙧 𝙖𝙙𝙢𝙞𝙣𝙨 𝙣𝙤 𝙛𝙪𝙞𝙨𝙩𝙚 𝙗𝙪𝙚𝙣 𝙖𝙙𝙢𝙞𝙣 :𝙫 😧`, wm, null, md, 'CAPIBOT', null, null, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']], m)
 }}
 handler.help = ['*593xxx*','*@usuario*','*responder chat*'].map(v => 'demote ' + v) 
 handler.tags = ['group']
