@@ -12,8 +12,9 @@ text: `*╭╼╼╼╼╼╼[ 💖 DONACION 💖 ]╾╾╾╾╾╾╾*
 *┇ 𝘛𝘦 𝘢𝘨𝘳𝘢𝘥𝘦𝘻𝘤𝘰, 𝘱𝘰𝘳 𝘢𝘺𝘶𝘥𝘢𝘳𝘮𝘦 𝘺 𝘱𝘰𝘳 𝘶𝘴𝘢𝘳 𝘮𝘪 𝘣𝘰𝘵*
 *┇ 𝘴𝘪 𝘲𝘶𝘪𝘦𝘳𝘦 𝘢𝘱𝘰𝘺𝘢𝘳 𝘢 𝘦𝘴𝘵𝘦 𝘱𝘳𝘰𝘺𝘦𝘤𝘵𝘰 𝘱𝘢𝘳𝘢 𝘲𝘶𝘦 𝘴𝘪𝘨𝘢𝘯 𝘢𝘤𝘵𝘶𝘢𝘭𝘪𝘻𝘢𝘥𝘰 𝘴𝘦𝘳*
 *┇ 𝘭𝘰𝘴 𝘱𝘶𝘦𝘥𝘦 𝘩𝘢𝘤𝘦𝘳 𝘢𝘤𝘭𝘢𝘷𝘦 𝘥𝘦 𝘮𝘦𝘳𝘤𝘢𝘥𝘰 𝘱𝘢𝘨𝘰 𝘢𝘳𝘨*
-*┇ • 𝘈𝘭𝘪𝘢𝘴 :* lolibot
-*┇ • 𝘊𝘝𝘜 :* 0000003100059201491917
+*┇ • 𝘈𝘭𝘪𝘢𝘴 :* Anthony Mendivil
+*┇ • CUENTA :* 4815 1630 6227 4090
+*┇ • BANCO: BBVA MEXICO
 *┇*
 *┇ 𝘘𝘶𝘪𝘦𝘳𝘦 𝘢𝘱𝘰𝘺𝘢𝘳 𝘥𝘦 𝘰𝘵𝘳𝘢 𝘧𝘰𝘳𝘮𝘢 𝘱𝘶𝘦𝘥𝘦 𝘥𝘰𝘯𝘢𝘳 𝘶𝘯 𝘯𝘶́𝘮𝘦𝘳𝘰*
 *┇ 𝘱𝘢𝘳𝘢 𝘲𝘶𝘦 𝘴𝘦𝘢 𝘣𝘰𝘵, 𝘩𝘢𝘣𝘭𝘢𝘳 𝘤𝘰𝘯 𝘮𝘪 𝘤𝘳𝘦𝘢𝘥𝘰𝘳.*
@@ -29,18 +30,18 @@ text: `*╭╼╼╼╼╼╼[ 💖 DONACION 💖 ]╾╾╾╾╾╾╾*
 *┃*  *${ig}*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *┃*   *ғᴀᴄᴇʙᴏᴏᴋ*
-*┃* *https://facebook.com/groups/872989990425789/*
+*┃* *n/a*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *┃*  *ᴀɢʀᴀᴄɪᴍɪᴇɴᴛᴏs:*
-*┃* *ʟᴏʟɪʙᴏᴛ-ᴍᴅ ᴛɪᴇɴᴇ ғᴜɴᴄɪᴏɴᴇs ǫᴜᴇ*
+*┃* *CapiBot ᴛɪᴇɴᴇ ғᴜɴᴄɪᴏɴᴇs ǫᴜᴇ*
 *┃* *ᴘᴇʀᴛᴇɴᴇᴢᴄᴀɴ ᴀ ʟᴀs sɪɢᴜᴇɴᴛᴇs ᴇᴍᴘʀᴇsᴀs*
 *┃* *ᴏʀɢᴀɴɪᴢᴀᴄɪᴏɴ(ᴇs) ᴘᴇʀsᴏɴᴀ(s):*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* *ᴛʜᴇ-ᴍʏsᴛɪᴄʙᴏᴛ-ᴍᴅ*
-*┃* *https://github.com/BrunoSobrino*
+*┃* *Contactame*
+*┃* *wa.me/525625060788*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* *ɢᴀᴛᴀʙᴏᴛ-ᴍᴅ*
-*┃* *https://github.com/GataNina-Li/GataBot-MD*
+*┃* *Grupo de Ventas*
+*┃* *https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74*
 *┃* *ɢʀᴀᴄɪᴀs!!*
 *┗ ┅ ━━━━━━━━━ ┅ ━*`, 
 contextInfo:{
@@ -57,8 +58,8 @@ mentionedJid:[m.sender],
 "mediaUrl": md, 
 "sourceUrl": md, 
 }}}, { quoted: m })
-// await conn.sendButton(m.chat, `a`, `https://paypal.me/OficialGD`, pp, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]], m) //[['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]]
-/*await conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/elrebelde21/The-LoliBot-MD', 'ɢɪᴛʜᴜʙ', null, null, [
+// await conn.sendButton(m.chat, `a`, `https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74`, pp, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]], m) //[['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]]
+/*await conn.sendHydrated(m.chat, str, wm, media, 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74', 'ɢɪᴛʜᴜʙ', null, null, [
 ['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 🔰', '.grupos'],
 ['𝘾𝙧𝙚𝙖𝙙𝙤𝙧 💗', '#owner'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']
