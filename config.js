@@ -11,23 +11,23 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['51955918117', 'Daniel', true],
-['51977835959', 'sopixx', true],
-['5493875262116'],
-['51967647592'],
-['59896392749'],
-['51907913096'], 
-['51906662557'],
-['573183650526'],
-['5492266466080'],
-['51977835959']]
+['525625060788', 'Anthony', true],
+['0', 'n', true],
+['0'],
+['0'],
+['0'],
+['0'], 
+['0'],
+['0'],
+['0'],
+['0']]
 
-global.mods = ['51977835959']
-global.prems = ['51977835959'],
+global.mods = ['525625060788']
+global.prems = ['525625060788'],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +525625060788
 global.confirmCode = "" 
 
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰
@@ -36,7 +36,7 @@ global.confirmCode = ""
 //  en = English         pt = Português
 //  ar = عرب 
 
-global.lenguajeGB = es  //Idioma de DokiBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de CapiBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -100,22 +100,22 @@ global.author = 'By Daniel'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = 'Shana'
+global.lb = 'CapiPremium'
 global.vs = '1.5.5'
-global.yt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.ig = 'https://www.instagram.com/Jxtxn17'
-global.md = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.fb = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
+global.yt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
+global.ig = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
+global.md = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
+global.fb = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
 
-global.nna = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Actualización, información sobre el bot
-global.nn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 1
-global.nnn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 2
-global.nnnt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo del Colaboracion
-global.nnnt2 = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' // Grupo COL 2
-global.nnntt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo COL 3
-global.nnnttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Canal MonkiBot
-global.nnntttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/51906641131' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Canal MonkiBot
+global.nnntttt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo ayuda sobre el bot
+global.asistencia = 'wa.me/525625060788' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -136,8 +136,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = 'Shana'
-global.igfg = 'Shana'
+global.wm = 'CapiPremium'
+global.igfg = 'CapiPremium'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
