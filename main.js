@@ -104,7 +104,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `ShanaBot`
+global.authFile = `CapiBot Premium`
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile)
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const msgRetryCounterCache = new NodeCache()
@@ -182,7 +182,7 @@ let addNumber
 if (!!phoneNumber) {
 addNumber = phoneNumber.replace(/[^0-9]/g, '')
 if (!Object.keys(PHONENUMBER_MCC).some(v => addNumber.startsWith(v))) {
-console.log(chalk.bgBlack(chalk.bold.redBright(`CONFIGURAR ARCHIVO ${chalk.bold.greenBright("config.js")} SU NÚMERO DE WHATSAPP NO TIENE CÓDIGO DE PAÍS, ${chalk.bold.yellowBright("EJEMPLO: +593090909090")}`)))
+console.log(chalk.bgBlack(chalk.bold.redBright(`CONFIGURAR ARCHIVO ${chalk.bold.greenBright("config.js")} SU NÚMERO DE WHATSAPP NO TIENE CÓDIGO DE PAÍS, ${chalk.bold.yellowBright("EJEMPLO: +525625060788")}`)))
 process.exit(0)
 }} else {
 while (true) {
