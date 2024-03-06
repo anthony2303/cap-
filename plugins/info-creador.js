@@ -23,21 +23,9 @@ import fetch from 'node-fetch';
      const document = doc[Math.floor(Math.random() * doc.length)]; 
      const str = `𝐂𝐑𝐄𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐄 𝐒𝐇𝐀𝐍𝐀 𝐁𝐎𝐓 ♓
 
-• 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐨𝐟𝐜: 𝗗𝗮𝗻𝗶𝗲𝗹 🇦🇱
+• 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐨𝐟𝐜: ANTHONY VENTAS
 
-𝐈𝐠: Instagram.com/Jxtxn17/
-𝐍𝐮𝐦𝐞𝐫𝐨: Wa.me/51907913096
-
-
-• 𝐒𝐨𝐩𝐨𝐫𝐭𝐞 𝐨𝐟𝐜: 𝗦𝗼𝗽𝗶𝗶 🧸
-
-𝐈𝐠: Instagram.com/sophziix/
-𝐍𝐮𝐦𝐞𝐫𝐨: Wa.me/51977835959
-
-• 𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫 𝐨𝐟𝐜: 𝗔𝘅 ⚜
-
-𝐈𝐠: Instagram.com/Litopeax
-𝐍𝐮𝐦𝐞𝐫𝐨: Wa.me/51929972576
+𝐍𝐮𝐦𝐞𝐫𝐨: Wa.me/525625060788
   `.trim(); 
      if (m.isGroup) { 
        // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true}) 
