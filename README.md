@@ -4,7 +4,7 @@
         <img src= "https://th.bing.com/th/id/OIP.0v_km7Sfpxh_VrPCE82_sQHaDt?rs=1&pid=ImgDetMain">
     </p>
     <p align="center">
-        <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+        <a href="#"><img title="Un Bot Premium" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
         <a href="https://github.com/anthony2303"><img title="Author"    src="https://img.shields.io/badge/Author-Anthony Ventas-purple.svg?style=for-the-badge&logo=github"></a>
