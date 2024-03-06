@@ -1157,9 +1157,9 @@ const messageNumber = user.bannedMessageCount + 1;
 const messageText = `âš ï¸ ESTAS BANEADO âš ï¸\nAviso (${messageNumber}/3) ${user.bannedReason ? `\n*Motivo:* ${user.bannedReason}` : 'Motivo: (spam)'}
 *ðŸ‘‰ðŸ» Puedes contactar al propietario del Bot si crees que se trata de un error o para charlar sobre tu desbaneo*
 
-ðŸ‘‰ wa.me/51977835959
-ðŸ‘‰ Wa.me/51907913096
-ðŸ‘‰ wa.me/51977835959`.trim();
+ðŸ‘‰ wa.me/525625060788
+ðŸ‘‰ Wa.me/525625060788
+ðŸ‘‰ wa.me/525625060788`.trim();
 m.reply(messageText);
 user.bannedMessageCount++;
 } else if (user.bannedMessageCount === 3) {
@@ -1482,7 +1482,7 @@ global.dfail = (type, m, conn) => {
         private: `âœ¯ Hola @${m.sender.split`@`[0]}, este comando solo puede ser utilizado en mi Chat *Privado*.`,
         admin: `âœ¯ Hola @${m.sender.split`@`[0]}, este comando solo puede ser utilizado por los *Administradores* del Grupo.`,
         botAdmin: `âœ¯ Hola @${m.sender.split`@`[0]}, la bot debe ser *Administradora* para ejecutar este Comando.`,
-        unreg: `âœ¯ Hola @${m.sender.split`@`[0]}, para usar este comando debes estar *Registrado.*\n\nUtiliza: */reg nombre.edad*\n\n_Ejemplo: */reg Daniel.18*_`,
+        unreg: `âœ¯ Hola @${m.sender.split`@`[0]}, para usar este comando debes estar *Registrado.*\n\nUtiliza: */reg nombre.edad*\n\n_Ejemplo: */reg Anthony.20*_`,
         restrict: `âœ¯ Hola @${m.sender.split`@`[0]}, esta caracterÃ­stica estÃ¡ *deshabilitada*`  
     }[type]
     if (msg) return conn.sendMessage(m.chat, { text: msg, contextInfo: { mentionedJid: [m.sender], forwardingScore: 9999, isForwarded: true, externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, ' ' + lb + ' ðŸˆ´', 'â™“'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, nna, yt, nnn, nn, fb, ig].getRandom(), mediaType: 1}}}, { quoted: m })
