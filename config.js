@@ -95,8 +95,8 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Shana'
-global.author = 'By Daniel'
+global.packname = 'CapiPremium'
+global.author = 'By Anthony Ventas'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
