@@ -75,7 +75,7 @@ await conn.sendMessage(m.chat, {
         text: `*Hey @${m.sender.split`@`[0]} estamos enviando el menu*
 𝘁𝗲𝗻 𝗽𝗮𝗰𝗶𝗲𝗻𝗰𝗶𝗮 𝘆 𝗲𝘃𝗶𝘁𝗮 𝗲𝗹 𝘀𝗽𝗮𝗺 👀
 
-𝐒𝐇𝐀𝐍𝐀 𝐁𝐎𝐓.`,
+CAPI PREMIUM BOT.`,
         contextInfo: { 
           mentionedJid: [m.sender],
         }
@@ -86,9 +86,9 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let menu = `⌜ *${wm}* ⌟  
 
  ╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣
-*┃➤ 👤 Creador : Daniel 🇦🇱* 
-*┃➤ 👤 Soporte : Sopixx*
-*┃➤ 🧿 Canal : https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP3
+*┃➤ 👤 Creador : ANTHONY VENTAS* 
+*┃➤ 👤 Soporte : wa.me/525625060788*
+*┃➤ 🧿 Grupo de Ventas : https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74
 *┃➤ ⌛ Tiempo activo : #uptime*
  ╰━━━━━━━━━━━━⬣
 
@@ -278,7 +278,7 @@ let menu = `⌜ *${wm}* ⌟
 *┃➤ ☁️ ${usedPrefix}qc*
  ╰━━━━━━━━━━━━
 
-SHANA BOT || DANIEL X SOPIXX`.trim()
+CAPI BOT || ANTHONY VENTAS`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
 let img = await (await fetch(`https://telegra.ph/file/b9768737c2e193587ad45.jpg`)).buffer()  
 await conn.sendMessage(m.chat, {
@@ -287,10 +287,10 @@ contextInfo: {
 mentionedJid: [m.sender],
 forwardingScore: 9, 
 externalAdReply: {
-title: '❑— 𝐒𝐇𝐀𝐍𝐀-𝐁𝐎𝐓 —❑\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
+title: '❑— CAPI PREMIUM —❑\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 //body: 'Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 thumbnail: img,
-sourceUrl: 'https://chat.whatsapp.com/FolexrXtQXy4v5qGjMYUmD',
+sourceUrl: 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
@@ -302,7 +302,7 @@ console.log(e)
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(herramientas|herramientas|herramientas|herramientas|allm\?)$/i
+handler.command = /^(herramientas|herramientas|herramientas|herramientas|menu|Menu|MENU|Menú|menú|allm\?)$/i
 //handler.register = true
 handler.exp = 50
 handler.fail = null
