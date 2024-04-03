@@ -94,19 +94,19 @@ global.author = 'By Ratuino'
 
 global.lb = 'Ratuino'
 global.vs = '1.5.5'
-global.yt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
-global.ig = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
-global.md = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
-global.fb = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
+global.yt = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1'
+global.ig = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1'
+global.md = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1'
+global.fb = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1'
 
-global.nna = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Canal MonkiBot
-global.nnntttt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo ayuda sobre el bot
+global.nna = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Canal MonkiBot
+global.nnntttt = 'https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1' //Grupo ayuda sobre el bot
 global.asistencia = 'wa.me/5214531100336' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
