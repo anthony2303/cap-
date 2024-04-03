@@ -86,9 +86,9 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let menu = `⌜ *${wm}* ⌟  
 
  ╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣
-*┃➤ 👤 Creador : ANTHONY VENTAS* 
-*┃➤ 👤 Soporte : wa.me/525625060788*
-*┃➤ 🧿 Grupo de Ventas : https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74
+*┃➤ 👤 Creador : RATUINO VENTAS* 
+*┃➤ 👤 Soporte : wa.me/524531100336*
+*┃➤ 🧿 Grupo de Ventas : https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1
 *┃➤ ⌛ Tiempo activo : #uptime*
  ╰━━━━━━━━━━━━⬣
 
