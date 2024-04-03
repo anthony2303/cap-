@@ -1483,7 +1483,7 @@ global.dfail = (type, m, conn) => {
         admin: `âœ¯ Hola @${m.sender.split`@`[0]}, este comando solo puede ser utilizado por los *Administradores* del Grupo.`,
         botAdmin: `âœ¯ Hola @${m.sender.split`@`[0]}, la bot debe ser *Administradora* para ejecutar este Comando.`,
         restrict: `âœ¯ Hola @${m.sender.split`@`[0]}, esta caracterÃ­stica estÃ¡ *deshabilitada*`,
-	unreg: `âœ¯ Hola @${m.sender.split`@`[0]}, para usar este comando debes estar *Registrado.*\n\nUtiliza: */reg nombre.edad*\n\n_Ejemplo: */reg Anthony.20*_`, 
+	unreg: `âœ¯ Hola @${m.sender.split`@`[0]}, para usar este comando debes estar *Registrado.*\n\nUtiliza: */reg nombre.edad*\n\n_Ejemplo: */reg Ratuino.40*_`, 
     }[type]
     if (msg) return conn.sendMessage(m.chat, { text: msg, contextInfo: { mentionedJid: [m.sender], forwardingScore: 9999, isForwarded: true, externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, ' ' + lb + ' ðŸˆ´', 'â™“'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, nna, yt, nnn, nn, fb, ig].getRandom(), mediaType: 1}}}, { quoted: m })
 }
