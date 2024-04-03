@@ -11,19 +11,11 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['525625060788', 'Anthony', true],
-['525625060788', 'AnthonyVentas', true],
-['525625060788'],
-['525625060788'],
-['525625060788'],
-['525625060788'], 
-['525625060788'],
-['525625060788'],
-['525625060788'],
-['525625060788']]
+['5214531100336', 'Ratuino', true],
+['524531100336', 'RatuinoVentas', true]]
 
-global.mods = ['525625060788']
-global.prems = ['525625060788'],
+global.mods = ['5214531100336']
+global.prems = ['5214531100336'],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -95,27 +87,27 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'CapiPremium'
-global.author = 'By Anthony Ventas'
+global.packname = 'RATUINOBOT'
+global.author = 'By Ratuino'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = 'CapiPremium'
+global.lb = 'Ratuino'
 global.vs = '1.5.5'
-global.yt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
-global.ig = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
-global.md = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
-global.fb = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74'
+global.yt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
+global.ig = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
+global.md = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
+global.fb = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ'
 
-global.nna = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Canal MonkiBot
-global.nnntttt = 'https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/525625060788' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Canal MonkiBot
+global.nnntttt = 'https://chat.whatsapp.com/Gc3udTdLUHFKiBuxyst2kZ' //Grupo ayuda sobre el bot
+global.asistencia = 'wa.me/5214531100336' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -136,13 +128,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = 'CapiPremium'
-global.igfg = 'CapiPremium'
+global.wm = 'RATUINOBOT'
+global.igfg = 'RATUINOBOT'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = 'Shana'
+global.nomorown = 'RATUINOBOT'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
