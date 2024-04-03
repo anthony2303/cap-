@@ -3,23 +3,23 @@ let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let str = `*Hola usuario estos son los grupos ofc de Shana-bot*
 
-📎 *CAPIBOT VENTAS 🈴*
+📎 *RATUINO VENTAS 🈴*
  
-https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74
+https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1
 
 📎 *Canal ⭐*
 
-https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74
+https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1
 
 ⚙️ *Grupos En Colaboración:*
 
-1 _CAPIBOT_
+1 _RATUINOBOT_
 
-https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74
+https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1
 
-2 CAPIBOT
+2 RATUINO
 
- https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74
+ https://chat.whatsapp.com/IJAkkMPoQWVLx1AadgI6f1
 
 ─────────────
 🧿Si se restableció los enlaces comunicate con mi creador usa el comando #creador para comunicarte con el 🌟`
