@@ -21,11 +21,11 @@ import fetch from 'node-fetch';
      const taguser = '@' + m.sender.split('@s.whatsapp.net')[0]; 
      const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document']; 
      const document = doc[Math.floor(Math.random() * doc.length)]; 
-     const str = `𝐂𝐑𝐄𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐄 𝐒𝐇𝐀𝐍𝐀 𝐁𝐎𝐓 ♓
+     const str = `𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄 *RATUINOBOT* ♓
 
-• 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐨𝐟𝐜: ANTHONY VENTAS
+• 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐨𝐟𝐜: RATUINO VENTAS
 
-𝐍𝐮𝐦𝐞𝐫𝐨: Wa.me/525625060788
+𝐍𝐮𝐦𝐞𝐫𝐨: Wa.me/5214531100336
   `.trim(); 
      if (m.isGroup) { 
        // await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true}) 
